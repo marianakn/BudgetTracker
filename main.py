@@ -30,5 +30,5 @@ else:
         print("Loan Balance Left: $", loan_balance)
         print(" You spent from your loan.")
     else:
-        print("\n You do not have enough balance or loan to cover this expense.")
+        print("\n You do not have enough balance.")
 
