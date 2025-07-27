@@ -1,0 +1,9 @@
+Customer Name: Jkb,
+Original Balance: $89.00
+Original Loan: $800.00
+Total Expenses: $800.00
+Number of Transactions: 1
+
+Transactions:
+  - ID: Jkb,.Jkb,-1, Amount: $800.00, Balance Left: $0.00, Loan Left: $89.00
+You used $711.00 from your loan.
