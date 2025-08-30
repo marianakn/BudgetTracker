@@ -1,9 +1,9 @@
-Customer Name: Jkb,
-Original Balance: $89.00
-Original Loan: $800.00
-Total Expenses: $800.00
+Customer Name: Tes Test
+Original Balance: $100.00
+Original Loan: $500.00
+Total Expenses: $200.00
 Number of Transactions: 1
 
 Transactions:
-  - ID: Jkb,.Jkb,-1, Amount: $800.00, Balance Left: $0.00, Loan Left: $89.00
-You used $711.00 from your loan.
+  - ID: Tes.Test-1, Amount: $200.00, Balance Left is : $0.00, Loan Left: $400.00
+You used $100.00 from your loan.
